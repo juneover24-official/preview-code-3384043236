@@ -1,0 +1,19 @@
+{
+  "qq_number": "3384043236",
+  "group_number": "783825188",
+  "updated_at": "2026-04-23T15:52:38.973636",
+  "skins": [
+    {
+      "name": "雨天の天使诗华章",
+      "file": "雨天の天使诗华章.bdi",
+      "thumb": "雨天の天使诗华章.bdi_py_26_light_thumb.png",
+      "full": "雨天の天使诗华章.bdi_py_26_light.png"
+    },
+    {
+      "name": "雨天の天使诗华章",
+      "file": "雨天の天使诗华章.bds",
+      "thumb": "雨天の天使诗华章.bds_py_26_light_thumb.png",
+      "full": "雨天の天使诗华章.bds_py_26_light.png"
+    }
+  ]
+}

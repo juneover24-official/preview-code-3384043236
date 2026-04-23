@@ -1,0 +1,67 @@
+{
+  "qq_number": "3384043236",
+  "group_number": "1082074671",
+  "updated_at": "2026-04-23T15:52:38.265332",
+  "skins": [
+    {
+      "name": "雨天のいい夢甘いもの",
+      "file": "雨天のいい夢甘いもの.bdi",
+      "thumb": "雨天のいい夢甘いもの.bdi_py_26_light_thumb.png",
+      "full": "雨天のいい夢甘いもの.bdi_py_26_light.png"
+    },
+    {
+      "name": "章鱼噼の原罪",
+      "file": "雨天の章鱼噼の原罪.bdi",
+      "thumb": "雨天の章鱼噼の原罪.bdi_py_26_light_thumb.png",
+      "full": "雨天の章鱼噼の原罪.bdi_py_26_light.png"
+    },
+    {
+      "name": "雨天の仿生泪腺",
+      "file": "雨天の仿生泪腺.bdi",
+      "thumb": "雨天の仿生泪腺.bdi_py_26_light_thumb.png",
+      "full": "雨天の仿生泪腺.bdi_py_26_light.png"
+    },
+    {
+      "name": "于是 我拥抱住我的春天",
+      "file": "雨天の于是我拥抱住我的春天.bdi",
+      "thumb": "雨天の于是我拥抱住我的春天.bdi_py_26_light_thumb.png",
+      "full": "雨天の于是我拥抱住我的春天.bdi_py_26_light.png"
+    },
+    {
+      "name": "有只软萌喵",
+      "file": "雨天の有只软萌喵.bdi",
+      "thumb": "雨天の有只软萌喵.bdi_py_26_light_thumb.png",
+      "full": "雨天の有只软萌喵.bdi_py_26_light.png"
+    },
+    {
+      "name": "雨天の有只软萌喵",
+      "file": "雨天の有只软萌喵.bds",
+      "thumb": "雨天の有只软萌喵.bds_py_26_light_thumb.png",
+      "full": "雨天の有只软萌喵.bds_py_26_light.png"
+    },
+    {
+      "name": "雨天のいい夢甘いもの",
+      "file": "雨天のいい夢甘いもの.bds",
+      "thumb": "雨天のいい夢甘いもの.bds_py_26_light_thumb.png",
+      "full": "雨天のいい夢甘いもの.bds_py_26_light.png"
+    },
+    {
+      "name": "雨天の章鱼噼の原罪",
+      "file": "雨天の章鱼噼の原罪.bds",
+      "thumb": "雨天の章鱼噼の原罪.bds_py_26_light_thumb.png",
+      "full": "雨天の章鱼噼の原罪.bds_py_26_light.png"
+    },
+    {
+      "name": "雨天の于是 我拥抱住我的春天",
+      "file": "雨天の于是我拥抱住我的春天.bds",
+      "thumb": "雨天の于是我拥抱住我的春天.bds_py_26_light_thumb.png",
+      "full": "雨天の于是我拥抱住我的春天.bds_py_26_light.png"
+    },
+    {
+      "name": "雨天の仿生泪腺",
+      "file": "雨天の仿生泪腺.bds",
+      "thumb": "雨天の仿生泪腺.bds_py_26_light_thumb.png",
+      "full": "雨天の仿生泪腺.bds_py_26_light.png"
+    }
+  ]
+}
