@@ -1,7 +1,7 @@
 {
   "qq_number": "3384043236",
   "group_number": "1080217114",
-  "updated_at": "2026-05-31T18:09:58+00:00",
+  "updated_at": "2026-05-31T18:10:56+00:00",
   "skins": [
     {
       "name": "四月是你的谎言",
@@ -104,6 +104,12 @@
       "file": "心の小羊缎带手礼浅色版闷闷.bdi",
       "thumb": "心の小羊缎带手礼浅色版闷闷.bdi_py_26_light_thumb.png",
       "full": "心の小羊缎带手礼浅色版闷闷.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "心の小羊缎带手礼深色版闷闷",
+      "file": "心の小羊缎带手礼深色版闷闷.bdi",
+      "thumb": "心の小羊缎带手礼深色版闷闷.bdi_py_26_light_thumb.png",
+      "full": "心の小羊缎带手礼深色版闷闷.bdi_py_26_light_thumb.png"
     }
   ]
 }
