@@ -1,13 +1,19 @@
 {
   "qq_number": "3384043236",
   "group_number": "1094287131",
+  "updated_at": "2026-05-31T10:22:08+00:00",
   "skins": [
     {
       "name": "心の雾色甜心",
       "file": "心の雾色甜心.bds",
       "thumb": "心の雾色甜心.bds_py_26_light_thumb.png",
       "full": "心の雾色甜心.bds_py_26_light_thumb.png"
+    },
+    {
+      "name": "心の雾色甜心",
+      "file": "心の雾色甜心.bdi",
+      "thumb": "心の雾色甜心.bdi_py_26_light_thumb.png",
+      "full": "心の雾色甜心.bdi_py_26_light_thumb.png"
     }
-  ],
-  "updated_at": "2026-05-31T10:20:41+00:00"
+  ]
 }
