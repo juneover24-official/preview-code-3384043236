@@ -1,7 +1,7 @@
 {
   "qq_number": "3384043236",
   "group_number": "1104877143",
-  "updated_at": "2026-06-01T03:37:35+00:00",
+  "updated_at": "2026-06-01T03:38:23+00:00",
   "skins": [
     {
       "name": "我咪都不咪你",
@@ -32,6 +32,12 @@
       "file": "玩偶兔融合底.bdi",
       "thumb": "玩偶兔融合底.bdi_py_26_light_thumb.png",
       "full": "玩偶兔融合底.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "我咪都不咪你融",
+      "file": "我咪都不咪你融.bdi",
+      "thumb": "我咪都不咪你融.bdi_py_26_light_thumb.png",
+      "full": "我咪都不咪你融.bdi_py_26_light_thumb.png"
     }
   ]
 }
