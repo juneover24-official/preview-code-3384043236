@@ -1,7 +1,7 @@
 {
   "qq_number": "3384043236",
   "group_number": "1105081521",
-  "updated_at": "2026-06-01T01:34:50+00:00",
+  "updated_at": "2026-06-01T01:35:40+00:00",
   "skins": [
     {
       "name": "雨天の萌时爱",
@@ -20,6 +20,12 @@
       "file": "玩偶兔融合底.bds",
       "thumb": "玩偶兔融合底.bds_py_26_light_thumb.png",
       "full": "玩偶兔融合底.bds_py_26_light_thumb.png"
+    },
+    {
+      "name": "玩偶兔",
+      "file": "玩偶兔.bds",
+      "thumb": "玩偶兔.bds_py_26_light_thumb.png",
+      "full": "玩偶兔.bds_py_26_light_thumb.png"
     }
   ]
 }
